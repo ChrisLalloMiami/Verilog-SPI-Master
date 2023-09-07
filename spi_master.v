@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-// Implementation of the SPI protocol, intended for use with the Zybo Z7-10. 
+// Implementation of the SPI protocol.
 // Note: Clocking wizard pulls system clock down to 100 MHz for locking with other slaves.
 
 
